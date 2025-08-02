@@ -76,12 +76,7 @@ Includes:
 
 ---
 
-## 👨‍💼 Author
 
-**Saptarshi Karmakar**  
-[GitHub Profile](https://github.com/Saptarshi014)  
-[LinkedIn Profile](https://www.linkedin.com/in/saptarshi-karmakar-530720336/)
 
 ---
 
-### 🌟 Star this repo if you found it insightful or want to reuse the framework!
